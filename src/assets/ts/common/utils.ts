@@ -198,6 +198,3 @@ export const formatPrice = (num: number) => {
     return integer.replace(reg, "$&,") + "." + float;
   }
 };
-// export const decode = (url: string, split: number) => {
-
-// }
